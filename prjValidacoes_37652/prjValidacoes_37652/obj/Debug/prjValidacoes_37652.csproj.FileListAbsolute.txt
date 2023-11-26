@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\bin\Debug\prjValidacoes_37652.exe.config
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\bin\Debug\prjValidacoes_37652.exe
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\bin\Debug\prjValidacoes_37652.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.frm37652_validacoes.resources
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.Properties.Resources.resources
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.exe
+C:\Users\andre\OneDrive\Área de Trabalho\prjValidacoes_37652\prjValidacoes_37652\obj\Debug\prjValidacoes_37652.pdb
